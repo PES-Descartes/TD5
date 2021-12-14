@@ -1,0 +1,156 @@
+<svg
+  xmlns='http://www.w3.org/2000/svg'
+  width='800'
+  height='800'
+  viewBox='-300 -300 600 600'
+  style='background: white'>
+
+  <g fill='black' stroke='black'>
+
+    <circle cx='-100.0' cy='0.0' r='3.0'>
+      <animate
+        attributeName='cx'
+        values='-100.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='cy'
+        values='0.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+    </circle>
+
+    <circle cx='100.0' cy='0.0' r='3.0'>
+      <animate
+        attributeName='cx'
+        values='100.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='cy'
+        values='0.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+    </circle>
+
+    <circle cx='0.0' cy='100.0' r='3.0'>
+      <animate
+        attributeName='cx'
+        values='0.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='cy'
+        values='100.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+    </circle>
+
+    <line x1='-100.0' y1='0.0' x2='100.0' y2='0.0'>
+
+      <animate
+        attributeName='x1'
+        values='-100.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='y1'
+        values='0.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='x2'
+        values='100.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='y2'
+        values='0.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+    </line>
+    <line x1='-100.0' y1='0.0' x2='0.0' y2='100.0'>
+
+      <animate
+        attributeName='x1'
+        values='-100.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='y1'
+        values='0.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='x2'
+        values='0.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='y2'
+        values='100.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+    </line>
+    <line x1='0.0' y1='100.0' x2='100.0' y2='0.0'>
+
+      <animate
+        attributeName='x1'
+        values='0.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='y1'
+        values='100.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='x2'
+        values='100.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+      <animate
+        attributeName='y2'
+        values='0.0'
+        keyTimes='NaN'
+        dur='0.0'
+        repeatCount='indefinite'
+      />
+    </line>
+  </g>
+
+</svg>
